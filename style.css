@@ -1,0 +1,27 @@
+#startScreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #f2f2f2;
+    background-image: url("./img/shuHjuwa.png");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.9;
+  }
+  
+  #startScreen h1 {
+    font-size: 70;
+    margin-bottom: 20px;
+    color: rgb(40, 128, 201);
+  }
+  
+  #startButton {
+    font-size: 18px;
+    padding: 10px 20px;
+    color: black;
+  }
+
